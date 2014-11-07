@@ -1,0 +1,9 @@
+{
+  "name": "react-playground",
+  "version": "0.0.0",
+  "description": "Code from the React tutorial.",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  }
+}
